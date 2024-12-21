@@ -118,4 +118,4 @@ https://github.com/user-attachments/assets/c1c43983-9cc4-4744-94a6-fdcfb7ddfe6c
 
 - Once authenticated, return to Kodi.
 - Your Google Drive should now be accessible via the add-on.
-
+https://github.com/aldacco/drive-login.git
